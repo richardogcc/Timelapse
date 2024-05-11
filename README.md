@@ -14,7 +14,7 @@ Timelapse Creator is an application that allows you to create stunning timelapse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arsedankezik/timelapse-creator.git
+   git clone https://github.com/arsdankezik/timelapse-creator.git
     ```
 
 2. Navigate to the project directory:
