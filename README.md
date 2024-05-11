@@ -30,9 +30,8 @@ Timelapse Creator is an application that allows you to create stunning timelapse
 ## Usage
 
 Run the script with Python:
-    ```bash
+
     python timelapse.py
-    ```
 ## License
 This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
 
