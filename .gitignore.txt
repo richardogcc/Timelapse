@@ -1,0 +1,4 @@
+buid/
+dist/
+icon.jpeg
+timelapse.spec
