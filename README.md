@@ -1,7 +1,5 @@
 # Timelapse Creator
 
-!Banner
-
 ## Description
 
 Timelapse Creator is an application that allows you to create stunning timelapse videos from a sequence of images. It's built with Python and uses OpenCV for image processing and video creation.
